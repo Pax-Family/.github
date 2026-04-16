@@ -1,4 +1,5 @@
-<img width="435" height="400" alt="pax-logo-txt" src="https://github.com/user-attachments/assets/0d9ea0b3-9122-4697-a09e-b1a8f8e7653c" />
+
+<img width="230" height="230" alt="logo-pax-26" src="https://github.com/user-attachments/assets/a5f97070-7022-4976-a598-41c283bf5e75" />
 
 # PAX Weltfriedensfestival
 
